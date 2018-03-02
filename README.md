@@ -1,4 +1,4 @@
-# SSR with Next.js and Firebase Hosting / Cloud Functions
+# SSR with Next.js and Firebase Hosting/Cloud Functions
 
 ## Important!
 
